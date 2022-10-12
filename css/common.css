@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans&display=swap" rel="stylesheet");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    font-family: 'Work Sans', sans-serif;
+    color: #FFFFFF;
+    opacity: 0.95;
+    display: block;
+    margin: auto;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    
+    text-decoration: none;
+}
+
+.wrapper {
+    position: relative;
+    margin: 15px;
+    margin: 0 auto;
+}
+.container {
+    max-width: 960px;
+    width: 100%;
+    margin: 0 auto;
+  }
